@@ -1,1 +1,1 @@
-# group-3-agency
+# tri-technologies
