@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+Tri-technology has brought the world’s best minds from every where around the world.
+We exist for one reason: to make your dreams come true easier and git you to the 
+satisfaction that you dreamed abuot all your life.
+
+Leasership:
+
+Aladdin Hammodi
+Chief Executive Officer & Co-Founder of Tri-Technologies, is an expert 
+in full-stack and management with experience of more than 14 years.
+"we can make every single dream come true before you even dream it"
+
+
 mohamad sawaed.
 Full Stack Developer.
 I have a passion for web development and internet applications.
