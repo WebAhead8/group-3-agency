@@ -1,12 +1,5 @@
 
-<<<<<<< HEAD
-
-=======
-  
->>>>>>> eaec3c30d7e7d3b45d4947761604d8629242fa8d
-  
- /* Aladdin section  */
-
+ /* Aladdin section  *
  /* jihad section  */
 
 
@@ -46,53 +39,9 @@
     font-size: 115%;
     font-family:fantasy;
  }   
+ 
  /* mohamad section */
-<<<<<<< HEAD
  
- .split {
-    height: 100%;
-    width: 50%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    overflow-x: hidden;
-    padding-top: 20px;
-    box-sizing: border-box;
-    background-color: lightblue;
-    max-width: 25rem;
-    margin: 85px;
-    padding: 2rem;
- 
-  }
-  
-  .left {
-    left: 0;
-    background-color:lightblue;
-  }
-  
-  .right {
-    right: 0;
-    background-color:lightseagreen;
-  }
-  
-  .centered {
-    position: absolute;
-    top: 200%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    
-  }
-  .centered1 {
-    position: absolute;
-    top: 300%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    
-    
-  }
-=======
  .split {
   height: 100%;
   width: 50%;
@@ -101,8 +50,7 @@
   top: 0;
   overflow-x: hidden;
   padding-top: 20px;
-  
-  background-color: lightblue;
+    background-color: lightblue;
   max-width: 30rem;
   margin: 130px;
   padding: 2rem;
@@ -126,4 +74,3 @@
   transform: translate(-50%, -50%);
   text-align: center;
 }
->>>>>>> eaec3c30d7e7d3b45d4947761604d8629242fa8d
