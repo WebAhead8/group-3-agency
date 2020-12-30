@@ -14,3 +14,9 @@ this website still a beta version and needs a lot of repair
 your welcome to write feedbacks and comments 
 
 enjoy it :D
+
+
+this website was created by 
+aladdin hammodi
+jihad banna
+mohamad sawaed
