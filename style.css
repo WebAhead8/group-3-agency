@@ -33,6 +33,21 @@ h2{
     color:rgb(25, 10, 240);
 }
 
+.wrapper {
+    display: grid;
+    grid-template-rows: auto;
+    grid-gap: 2rem;
+
+}
+
+.wrapper > div {
+    padding 2em;
+    background: rgba(238, 238, 238, 0.856);
+    
+}
+.wrapper > div:nth-child(odd){
+    background: : #ddd;
+}
 
 @media all and (max-width:500px )
 
@@ -78,18 +93,7 @@ h2{
     background: #1b9bff;
     transition: .5s;
   }
-  .checkbtn{
-    font-size: 30px;
-    color: white;
-    float: right;
-    line-height: 80px;
-    margin-right: 40px;
-    cursor: pointer;
-    display: none;
-  }
-  #check{
-    display: none;
-  }
+  
   @media (max-width: 952px){
     label.logo{
       font-size: 30px;
@@ -187,6 +191,7 @@ h2{
     padding-top: 20px;
     background-color: lightblue;
     max-width: 30rem;
+    max-height: 25rem;
     margin: 130px;
     padding: 2rem;
   
