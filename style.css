@@ -1,8 +1,4 @@
 
-<<<<<<< HEAD
- /* Aladdin section  *
- /* jihad section  */
-=======
 /* aladdin section  */
 body{
     background-color: rgb(16, 191, 245);
@@ -142,7 +138,6 @@ h2{
 /* end of aladdin section */
 
 /* jihad section  */
->>>>>>> 8478548c8c51105eed11b105cd72672ef2db0c50
 
 
 .details {
@@ -161,48 +156,40 @@ h2{
     border-radius: 50%;
     width: 133px;
     height: 133px;
-        margin-left: -10%;
+    margin-left: -10%;
 }
+
 .members-info, .image , .title ,.details {
     align-items :center;
 }
 .column {
     float: left;
-  width: 25%;
-  padding: 0 10px;
-  margin-bottom: -10%;
-   
-
-    
+    width: 25%;
+    padding: 0 10px;
+    margin-bottom: -10%  
 }
-.details span {
+.details span, .title {
     font-weight: bold;
-    color: #4ba139;
+    color: #082b5f;
     font-size: 115%;
     font-family:fantasy;
  }   
- 
  /* mohamad section */
-<<<<<<< HEAD
- 
- .split {
-=======
 
  
- .split {
+  .split {
     height: 100%;
     width: 50%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
+    position: absolute;
+    z-index:1;
+    bottom: 200;
     overflow-x: hidden;
     padding-top: 20px;
-    box-sizing: border-box;
     background-color: lightblue;
-    max-width: 25rem;
-    margin: 85px;
+    max-width: 30rem;
+    margin: 130px;
     padding: 2rem;
- 
+  
   }
   
   .left {
@@ -215,58 +202,10 @@ h2{
     background-color:lightseagreen;
   }
   
-  .centered {
-    position: absolute;
-    top: 200%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    
-  }
-  .centered1 {
-    position: absolute;
-    top: 300%;
-    left: 80%;
-    transform: translate(-50%, -50%);
-    text-align: left;
-    
-    
-  }
-
- .split {
->>>>>>> 8478548c8c51105eed11b105cd72672ef2db0c50
-  height: 100%;
-  width: 50%;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  overflow-x: hidden;
-  padding-top: 20px;
-    background-color: lightblue;
-  max-width: 30rem;
-  margin: 130px;
-  padding: 2rem;
-
-}
-
-.left {
-  left: 0;
-  background-color:lightblue;
-}
-
-.right {
-  right: 0;
-  background-color:lightseagreen;
-}
-
 .centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  text-align: center;
-<<<<<<< HEAD
+  text-align: left;
 }
-=======
-}
->>>>>>> 8478548c8c51105eed11b105cd72672ef2db0c50
